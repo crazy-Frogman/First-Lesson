@@ -1,0 +1,69 @@
+.header {
+	width:85%;
+	height: 100px;
+	margin:0 auto;
+	background-color: blue;
+}
+
+.body {
+	width:85%;
+	margin:20px auto;
+}
+
+.login {
+	width:21%;
+	height:200px;
+	float: left;
+	background-color: #1ff;
+}
+
+.pictures {
+	width: 76%;
+	float: right;
+	background-color: #d23123;
+	height:200px;
+}
+
+.list {
+	width:21%;
+	height:600px;
+	float: left;
+	background-color: #743;
+	margin:20px 0 0 0;
+}
+
+.mail {
+	width:36%;
+	height: 175px;
+	float: left;
+	background-color: yellow;
+	margin:20px 0 0 30px;
+}
+
+.rightCol {
+	width:35%;
+	height:375px;
+	float: right;
+	margin:20px 0 0 30px;
+}
+
+.out {
+	height: 275px;
+	background-color: pink;
+}
+
+.little {
+	height:100px;
+	background-color: purple;
+}
+
+.clear{
+	clear:both
+}
+
+.footer {
+	width:85%;
+	background-color: green;
+	height:59px;
+	margin: 20px auto;
+}
